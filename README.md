@@ -1,12 +1,15 @@
-Qui suis-je ? L’enquête numérique
 
-Discipline : FMTTN
-Niveau : 6e primaire
-Type d’activité : Recherche d’informations sur Internet et création d’une fiche d’identité animale
-Durée : 50 minutes
-Organisation : Travail individuel suivi d’un travail collaboratif en groupes de 4 élèves
+# 🐾 Qui suis-je ? L’enquête numérique
 
-Présentation du projet
+**Discipline :** FMTTN  
+**Niveau :** 6e primaire  
+**Type d’activité :** Recherche d’informations sur Internet et création d’une fiche d’identité animale  
+**Durée :** 50 minutes  
+**Organisation :** Travail individuel suivi d’un travail collaboratif en groupes de 4 élèves
+
+---
+
+## 📖 Présentation du projet
 
 Cette activité pédagogique vise à développer les compétences numériques des élèves à travers une enquête sur six animaux.
 
@@ -14,66 +17,70 @@ Les élèves réalisent d’abord une recherche individuelle sur un animal qui l
 
 Les élèves apprennent à rechercher des informations à l’aide de mots-clés, à confronter leurs résultats et à sélectionner des informations correctes et représentatives de l’animal.
 
-Six animaux sont proposés :
+### 🐾 Les six animaux étudiés
 
-Le manchot empereur
+- Le manchot empereur
+- L’axolotl
+- Le panda roux
+- Le scorpion
+- L’ornithorynque
+- L’okapi
 
-L’axolotl
+---
 
-Le panda roux
+## 📁 Fichiers du projet
 
-Le scorpion
+### Guide pédagogique
+- Déroulement de l’activité en version PDF et ODT modifiable : `activitelenqueteurduweb`
 
-L’ornithorynque
+### Fiches de recherche individuelles
+Disponibles en version PDF et ODT :
 
-L’okapi
+- `rechercheaxolotl`
+- `recherchemanchotempereur`
+- `rechercheokapi`
+- `rechercheornithorynque`
+- `recherchepandaroux`
+- `recherchescorpion`
 
-Fichiers du projet
+### Autres documents
+- Fiche d’identité vierge : `fichedidentite` (PDF et ODT)
+- Consignes destinées aux élèves pour le TBI : `consignestbi` (PDF et ODT)
+- Mode d’emploi pour créer un Digipad : `modedemploidigipad` (PDF et ODT)
+- Exemple de Digipad final rempli par les élèves : `exempledigipadfinal`
 
-Le déroulement de l’activité en version PDF et ODT modifiable (activitelenqueteurduweb)
+---
 
-Les fiches de recherche individuelles en version PDF et ODT :
+## 🌐 Ressources
 
-rechercheaxolotl
+### Digipad
 
-recherchemanchotempereur
+[**Accéder au Digipad de l’activité**](https://digipad.app/p/1975056/f4ed635e37ff28)
 
-rechercheokapi
+**Code d’accès :** `37109456`
 
-rechercheornithorynque
+### La Digitale
 
-recherchepandaroux
+[Site officiel de La Digitale](https://ladigitale.dev/)
 
-recherchescorpion
+---
 
-La fiche d’identité vierge en version PDF et ODT (fichedidentite)
+## 📜 Licence
 
-Les consignes destinées aux élèves pour le TBI en version PDF et ODT (consignestbi)
+Ce projet est mis à disposition sous licence :
 
-Le mode d’emploi pour créer un Digipad en version PDF et ODT (modedemploidigipad)
+**Creative Commons Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0).**
 
-Un exemple de Digipad final rempli par les élèves (exempledigipadfinal)
+[Consulter la licence complète](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)
 
-Ressources
+Les documents pédagogiques de cette activité peuvent être réutilisés et adaptés dans les conditions prévues par cette licence.
 
-Digipad : https://digipad.app/p/1975056/f4ed635e37ff28
+---
 
-Accéder au Digipad de l’activité
+## 👩‍🏫 Auteure
 
-Code d’accès : 37109456
+**Stéphanie Cartesiani**
 
-Site La Digitale :
-
-https://ladigitale.dev/
-
-Licence
-
-Licence Creative Commons Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0).
-
-https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
-
-Les documents pédagogiques de cette activité sont mis à disposition sous cette licence.
-
-Auteure
-
-Stéphanie Cartesiani
+Formation en enseignement – Section 3  
+B1 – Mathématiques et formation numérique  
+HELHa
